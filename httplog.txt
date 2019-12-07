@@ -1,0 +1,9 @@
+unimcomp56.unicomp.net - - peter [9/Feb/2017:10:34:12 -0700] "GET /sample-image.png" 200 
+unimcomp56.unicomp.net - - bob [9/Feb/2017:10:34:12 -0700] "GET /sample-image.png" 200 
+unimcomp54.unicomp.net - - jill [9/Feb/2017:10:34:12 -0700] "GET /sample-image.png" 200 
+unimcomp8.unicomp.net - - tom [9/Feb/2017:10:34:12 -0700] "GET /sample-image.png" 200 
+unimcomp45.unicomp.net - - jane [9/Feb/2017:10:34:12 -0700] "GET /sample-image.png" 200 
+unimcomp25.unicomp.net - - marty [9/Feb/2017:10:34:12 -0700] "GET /sample-image.png" 200 
+unimcomp25.unicomp.net - - sierra [9/Feb/2017:10:34:12 -0700] "GET /sample-image.png" 200 
+unimcomp11.unicomp.net - - eric [9/Feb/2017:10:34:12 -0700] "GET /sample-image.png" 200 
+127.0.0.1 - - localhost[9/Feb/2017:10:34:12 -0700] "GET /sample-image.png" 200
