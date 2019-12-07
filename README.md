@@ -3,4 +3,4 @@ Use this Python function to see how many IP address or host names are connecting
 ###  Steps
 - cat /var/log/apache2/access.log > httplogs.txt
 - copy your text file to your python script directory
-- run your python progame with the filename as the parameter
+- run your python program with the filename as the parameter
